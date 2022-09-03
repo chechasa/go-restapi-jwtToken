@@ -1,0 +1,7 @@
+{
+    "service_host": "0.0.0.0",
+    "service_port": "8080",
+    "repository": "mysql",
+    "db_path": "root:1234@tcp(127.0.0.1:3306)/exercise_db?parseTime=true",
+    "migrations_path": "db_mysql/migrations"
+}
